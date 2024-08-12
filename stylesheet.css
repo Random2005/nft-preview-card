@@ -1,0 +1,119 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+
+
+*{
+    padding: 0;
+    margin: 0;
+    font-size: 18px;
+    font-family: outfit;
+
+}
+
+.container{
+
+
+   
+    
+  background-color:hsl(216, 50%, 16%) ;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 10px;
+  border-radius: 20px;
+  
+
+
+}
+
+body{ 
+
+background-color: hsl(217, 54%, 11%)
+
+
+}
+
+.container h1{
+
+    color: white;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    padding-top: 15px;
+}
+
+.container p{
+
+    color: hsl(215, 51%, 70%);
+    padding-left: 20px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+}
+
+.jule{
+
+    display:flex;
+    padding-left: 20px;
+    margin-bottom: 15px;
+    
+}
+
+.eth{
+
+    color:  hsl(178, 100%, 50%);
+    margin-right: 70px;
+
+    
+}
+
+
+
+.days{
+
+    color: hsl(215, 51%, 70%);
+}
+
+  .container .ln hr{
+
+   border: none;
+   height: 1px;
+   background-color:  hsl(215, 51%, 70%);
+
+}
+
+.p{
+
+height: 40px;
+border: 1px solid white;
+border-radius: 50%;  
+margin-right:20PX ;  
+
+}
+
+.creator{
+
+    color: white;
+}
+
+.ctr{
+
+    color: hsl(215, 51%, 70%);
+    margin-right: 15px;
+}
+
+.s{
+
+    height: 300px;
+    border-radius: 20px;
+    padding-left: 10px;
+    padding-top: 5px;
+
+}
+
+.wy{
+ 
+    display: flex;
+    padding-left: 20px;
+    margin-top: 15px;
+
+
+}
